@@ -20,17 +20,18 @@ To begin using this project, follow the following options to get started:
 
 - Run this file on your jupyter notebook
 
-## Documentation
---------
-
-- Coming Soon
-
 ## Contribute
 ----------
 
 - Issue Tracker: https://github.com/codexponent/catdogclassification/issues
 - Source Code: https://github.com/codexponent/catdogclassification
 - Contributors: https://github.com/codexponent/catdogclassification/contributors.txt
+
+## References
+----------
+- https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+- https://www.tensorflow.org/mobile/
+- https://www.tensorflow.org/mobile/android_build
 
 ## Support
 -------
